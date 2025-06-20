@@ -1,0 +1,3 @@
+Cron job (exécuter crontab -e):
+
+*/5 * * * * /path/to/client_linux.sh
